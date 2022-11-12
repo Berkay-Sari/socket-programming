@@ -1,5 +1,5 @@
 # socket-programming
-An HTTP server over TCP socket programming with python
+An HTTP server over TCP socket programming with python. The server is running on port 8080 and localhost.
 
 # endpoints 
 
